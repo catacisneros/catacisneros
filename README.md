@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Cata
+
+### About me
+  I'm a Computer Science student at FIU, passionate about cybersecurity, AI, and process optimization. Outside of tech, I like to travel. 
+
+### I’m currently working on
+  An AI powered application to streamline job application processes.
+
+### How to reach me:
+
+### Fun fact:
 
 <!--
 **catacisneros/catacisneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
