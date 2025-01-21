@@ -7,7 +7,7 @@
   An AI powered application to streamline job application processes.
 
 ### How to reach me:
-  Email: catacisneros@icloud.com
+  Email: cmcr2002@gmail.com
   Linkedin: https://www.linkedin.com/in/catalinacisneros/
 
 
