@@ -4,11 +4,12 @@
   I'm a Computer Science student at FIU, passionate about cybersecurity, AI, and process optimization. Outside of tech, I like to travel and write poetry.
 
 ### I’m currently working on
-  An AI powered application to streamline job application processes.
+  - An AI powered application to streamline job application processes.
+  - An AI song generator
 
 ### How to reach me:
-  Email: cmcr2002@gmail.com
-  Linkedin: https://www.linkedin.com/in/catalinacisneros/
+  - Email: cmcr2002@gmail.com
+  - Linkedin: https://www.linkedin.com/in/catalinacisneros/
 
 
 <!--
