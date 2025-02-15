@@ -5,7 +5,7 @@
 
 ### I’m currently working on
   - An AI powered application to streamline job application processes.
-  - An AI song generator.
+  - A cybersecurity phishing detector.
 
 ### How to reach me:
   - Email: cmcr2002@gmail.com
