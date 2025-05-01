@@ -1,15 +1,17 @@
-## Hi there 👋 I'm Cata
+## Hi there 👩🏻‍💻 I'm Cata
+
+https://catacisneros.github.io
 
 ### About me
-  I'm a Computer Science student at FIU, passionate about cybersecurity, Quantum Computing, AI, and process optimization. Outside of tech, I like to travel and write poetry.
+  I'm a Computer Science student at FIU, passionate about cybersecurity, Quantum Computing, AI, and process optimization. Outside of tech, I like to travel, do yoga, and write poetry. 
 
 ### I’m currently working on
-  - An AI powered application to streamline job application processes.
-  - A cybersecurity phishing detector.
+  - An IoT Security Dashboard.
 
 ### How to reach me:
   - Email: cmcr2002@gmail.com
   - Linkedin: https://www.linkedin.com/in/catalinacisneros/
+  - Website: https://catacisneros.github.io
 
 
 <!--
