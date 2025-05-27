@@ -3,10 +3,11 @@
 https://catacisneros.github.io
 
 ### About me
-  I'm a Computer Science student at FIU, passionate about cybersecurity, Quantum Computing, AI, and process optimization. Outside of tech, I like to travel, do yoga, and write poetry. 
+  I study Computer Science and Physics, and I’m passionate about cybersecurity, and building tech that solves real problems. Outside of tech, I like to travel, do yoga, and write poetry. 
 
 ### I’m currently working on
   - An IoT Security Dashboard.
+  - Certification (cybersecurity related)
 
 ### How to reach me:
   - Email: cmcr2002@gmail.com
