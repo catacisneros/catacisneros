@@ -11,7 +11,7 @@ https://catacisneros.github.io
   - Certification (cybersecurity related)
 
 ### How to reach me:
-  - Email: cmcr2002@gmail.com
+  - Email: catacis@catacis.anonaddy.com
   - Linkedin: https://www.linkedin.com/in/catalinacisneros/
   - Website: https://catacisneros.github.io
 
