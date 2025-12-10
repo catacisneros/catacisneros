@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am <b> Cata </b>. Computer Science student with a Physics minor, obsessed with cybersecurity and building cool projects.
+I am <b>Cata</b>. Computer Science student with a Physics minor, obsessed with cybersecurity and building cool projects.
 
 #### What I am into 🔐💻
 - Splunk, incident response, network analysis
