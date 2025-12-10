@@ -1,18 +1,22 @@
-## Hi there 👩🏻‍💻 I'm Cata
+## Hi there 👋
+I am <b> Cata </b>. Computer Science student with a Physics minor, obsessed with cybersecurity and building cool projects.
 
-https://catacisneros.github.io
+#### What I am into 🔐💻
+• Splunk, incident response, network analysis
+• React dashboards, FastAPI backends, MongoDB
+• Modern physics labs and data modeling
 
-### About me
+#### Current work 🚀
+• Cybersecurity dashboard
+• Security Plus prep
+• Portfolio updates and side projects
 
-I study Computer Science and Physics, and I’m passionate about cybersecurity, and building tech that solves real problems. Outside of tech, I like to travel, do yoga, and write poetry.
+#### About me ✨
+I speak Spanish and English
+I love yoga, pilates, travel, and making tech fun
+If you ever want to talk security or build something together, I am down.
 
-### I’m currently working on
-
-An IoT Security Dashboard.
-A keylogger (educational purposes only)
-Certification (ComptIA Sec+)
-
-### How to reach me:
+### How to reach me 🌐
 
 Email: catacis@catacis.anonaddy.com
 Linkedin: https://www.linkedin.com/in/catalinacisneros/
