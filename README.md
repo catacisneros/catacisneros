@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there 👩🏻‍💻 I'm Cata
+
+https://catacisneros.github.io
+
+### About me
+
+I study Computer Science and Physics, and I’m passionate about cybersecurity, and building tech that solves real problems. Outside of tech, I like to travel, do yoga, and write poetry.
+
+### I’m currently working on
+
+An IoT Security Dashboard.
+A keylogger (educational purposes only)
+Certification (ComptIA Sec+)
+
+### How to reach me:
+
+Email: catacis@catacis.anonaddy.com
+Linkedin: https://www.linkedin.com/in/catalinacisneros/
+Website: https://catacisneros.github.io
 
 <!--
 **catacisneros/catacisneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
