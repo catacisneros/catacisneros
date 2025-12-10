@@ -2,14 +2,14 @@
 I am <b> Cata </b>. Computer Science student with a Physics minor, obsessed with cybersecurity and building cool projects.
 
 #### What I am into 🔐💻
-- • Splunk, incident response, network analysis
-- • React dashboards, FastAPI backends, MongoDB
-- • Modern physics labs and data modeling
+- Splunk, incident response, network analysis
+- React dashboards, FastAPI backends, MongoDB
+- Modern physics labs and data modeling
 
 #### Current work 🚀
-- • Cybersecurity dashboard
-- • Security Plus prep
-- • Portfolio updates and side projects
+- Cybersecurity dashboard
+- Security Plus prep
+- Portfolio updates and side projects
 
 #### About me ✨
 - I speak Spanish and English
