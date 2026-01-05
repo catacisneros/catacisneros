@@ -3,13 +3,14 @@ I am <b>Cata</b>. Computer Science student with a Physics minor, obsessed with c
 
 #### What I am into 🔐💻
 - Splunk, incident response, network analysis
+- Cybersecurity concepts, OSINT, network protection and privacy
 - React dashboards, FastAPI backends, MongoDB
-- Modern physics labs and data modeling
 
 #### Current work 🚀
 - Cybersecurity dashboard
 - Security Plus prep
 - Portfolio updates and side projects
+- Educational cybersecurity videos
 
 #### About me ✨
 - I speak Spanish and English
@@ -21,6 +22,8 @@ I am <b>Cata</b>. Computer Science student with a Physics minor, obsessed with c
 - Email: catacis@catacis.anonaddy.com
 - Linkedin: https://www.linkedin.com/in/catalinacisneros/
 - Website: https://catacisneros.github.io
+- TikTok: https://www.tiktok.com/@catacisneros
+- More info: https://catacisneros.github.io/cybercata/
 
 <!--
 **catacisneros/catacisneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
