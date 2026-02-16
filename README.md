@@ -1,32 +1,17 @@
 ## Hi there 👋  
-I am <b>Cata</b>. Computer Science student with a Physics minor, focused on cybersecurity, OSINT, and network security. I build tools, analyze threats, and teach security online.
+I am <b>Cata</b>. Cybersecurity focused CS student with a Physics minor. Interested in SOC, SIEM, and compliance security.
 
-#### What I am into 🔐💻  
-- SIEMs and SOC tooling, mainly Splunk  
-- Incident response, threat analysis, networking  
-- OSINT, digital footprint analysis, privacy  
-- React dashboards, FastAPI backends, MongoDB  
+#### Focus 🔐  
+* Splunk and SOC workflows  
+* Incident response and log analysis  
+* Network security and threat detection  
+* Compliance and risk aware security practices  
+* Python security projects  
 
-#### Current work 🚀  
-- Cybersecurity dashboards and threat analysis projects  
-- CompTIA Security Plus and Network Plus preparation  
-- Portfolio updates and cybersecurity side projects  
-- Educational network and cybersecurity content in Spanish and English  
-- Teaching and mentoring students through CodePath  
-
-#### CyberCata 🧠🔐  
-- My cybersecurity creator and educator persona  
-- Short form educational content on cybersecurity, OSINT, and online safety  
-- Spanish first, bilingual content for broader reach  
-- Focused on making complex security topics simple and practical
-- My links (mainly TikTok and Instagram): https://catacisneros.github.io/cybercata/ 
-
-#### About me ✨  
-- I speak Spanish and English  
-- Computer Science major with a Physics background  
-- Passionate about making cybersecurity practical and accessible  
-- I love yoga, pilates, travel, and making tech less boring  
-- Always down to talk security or build something together  
+#### Current 🚀  
+* Security labs and detection projects  
+* CompTIA Security+ prep  
+* Teaching cybersecurity at CodePath  
 
 ### How to reach me 🌐  
 - Email: catacis@catacis.anonaddy.com  
