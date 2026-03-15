@@ -1,12 +1,12 @@
 ## Hi there 👋  
-I am <b>Cata</b>. Cybersecurity focused CS student with a Physics minor. Interested in SOC, SIEM, and compliance security.
+I am <b>Cata</b>, a computer scientist focused on cybersecurity.
 
-#### Focus 🔐  
-* Splunk and SOC workflows  
-* Incident response and log analysis  
-* Network security and threat detection  
-* Compliance and risk aware security practices  
-* Python security projects  
+I like learning security from multiple angles and building projects that reflect that curiosity. My work spans areas such as digital forensics, penetration testing, SOC analysis, cryptography, network programming, OSINT, and compliance.
+
+I'm currently preparing for the CompTIA Security+ certification, as well as building and documenting my own projects.
+
+#### Tools 🔐  
+Splunk, Wireshark, Snort, Autopsy, FTK Imager, Burp Suite, Metasploit, Shodan, John the Ripper, CyberChef, MITMProxy, Nmap, OSINT tools, auditd, Docker, Nginx, ExifTool, E3, Catalyst, Python (pandas, requests, scapy, socket)
 
 #### Current 🚀  
 * Security labs and detection projects  
@@ -18,7 +18,7 @@ I am <b>Cata</b>. Cybersecurity focused CS student with a Physics minor. Interes
 - Linkedin: https://www.linkedin.com/in/catalinacisneros/  
 - Website: https://catacisneros.github.io  
 - TikTok: https://www.tiktok.com/@catacisneros  
-- More info: https://catacisneros.github.io/cybercata/  
+- More info: https://catacisneros.github.io/  
 
 
 
