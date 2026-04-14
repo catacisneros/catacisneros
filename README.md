@@ -14,7 +14,7 @@ Splunk, Wireshark, Snort, Autopsy, FTK Imager, Burp Suite, Metasploit, Shodan, J
 * Teaching cybersecurity at CodePath  
 
 ### How to reach me 🌐  
-- Email: catacis@catacis.anonaddy.com  
+- Email: cybercatahq@gmail.com 
 - Linkedin: https://www.linkedin.com/in/catalinacisneros/  
 - Website: https://catacisneros.github.io  
 - TikTok: https://www.tiktok.com/@catacisneros  
