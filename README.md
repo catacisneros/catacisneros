@@ -1,7 +1,5 @@
 ## Hi there 👋  
-I am <b>Cata</b>, a computer scientist focused on cybersecurity. My work spans areas such as digital forensics, penetration testing, SOC analysis, cryptography, network programming, OSINT, and compliance.
-
-I'm currently preparing for the CompTIA Security+ certification, as well as building and documenting my own projects.
+I am <b>Cata</b>, a computer scientist focused on cybersecurity. My work spans areas such as digital forensics, penetration testing, SOC analysis, cryptography, network programming, OSINT, and compliance. I'm currently preparing for the CompTIA Security+ certification, as well as building and documenting my own projects.
 
 #### Tools 🔐  
 Splunk, Wireshark, Snort, Autopsy, FTK Imager, Burp Suite, Metasploit, Shodan, John the Ripper, CyberChef, MITMProxy, Nmap, OSINT tools, auditd, Docker, Nginx, ExifTool, E3, Catalyst, Python (pandas, requests, scapy, socket)
